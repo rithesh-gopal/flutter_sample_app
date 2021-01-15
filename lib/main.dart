@@ -2,7 +2,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_sample_app/src/views/splash/FutureBasedSplash.dart';
 import 'package:flutter_sample_app/src/views/splash/TimeBasedSplash.dart';
-import 'package:splashscreen/splashscreen.dart';
 void main(){
   runApp(new MaterialApp(
     home: new MyApp(),
